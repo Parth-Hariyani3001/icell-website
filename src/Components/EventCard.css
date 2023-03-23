@@ -1,0 +1,10 @@
+.Single-Card{
+    border: 2px solid ;
+    padding : 20px;
+    border-radius: 5px;
+}
+.Card-Child{
+    display : flex;
+    justify-content: flex-start;
+    gap : 20px;
+}

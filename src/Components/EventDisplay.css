@@ -1,0 +1,8 @@
+.Event-Display{
+    display : flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    margin-left: 30px;
+    gap : 5px;
+    margin-top : 40px;
+}
